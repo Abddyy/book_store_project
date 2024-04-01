@@ -1,0 +1,7 @@
+com\mycompany\bookstoreproject\Validator.class
+com\mycompany\bookstoreproject\BookStore.class
+com\mycompany\bookstoreproject\TextValidator.class
+com\mycompany\bookstoreproject\Book.class
+com\mycompany\bookstoreproject\BookStoreProject.class
+com\mycompany\bookstoreproject\ISBNValidator.class
+com\mycompany\bookstoreproject\DatabaseUtil.class
